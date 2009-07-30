@@ -1,0 +1,39 @@
+.preview {
+	float: left;
+	height: 100%;
+	width: 230px;
+	margin: 4px;
+	padding: 5px;
+	background-color: #F9F9F9;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+
+}
+
+.preview a{
+    font-family: Geneva;
+    text-decoration: none;
+    padding: 3px;
+   
+}
+
+
+.normal {
+	font-weight: bold;
+}
+
+.tag_header{
+	font-weight: bold;
+	color: #ff802e;
+	font-size: 17px;
+	padding-bottom: 0px;
+}
+
+#gallery{
+    height: 100%;
+    width: 240px;
+  	overflow: hidden;
+}
+
+
+
